@@ -1,0 +1,4 @@
+This is a collection of math functions and programs to be used to help us pitiful humans with the boring part of math: computation.
+Nowhere else did I find a recursive solution to find the determinant of a matrix, so I thought I'd make one. 
+
+A bunch of useful matrix stuff can be found in Recursive_Math.c
